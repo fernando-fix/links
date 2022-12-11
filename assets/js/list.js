@@ -47,6 +47,12 @@ let tableItems = [
       descricao:  "Site que contém diversos links cdn para importar, Ex.: fonte awesome, bootstrap e etc...",
       site:       "https://cdnjs.com/"
    },
+   {
+      nome:       "css battle",
+      categoria:  "praticar programação online",
+      descricao:  "site para praticar online a linguagem css, com desafios",
+      site:       "https://cssbattle.dev/"
+   },
 ];
 
 let example = [
