@@ -53,6 +53,13 @@ let tableItems = [
       descricao:  "site para praticar online a linguagem css, com desafios",
       site:       "https://cssbattle.dev/"
    },
+   {
+      nome:       "use animations",
+      categoria:  "SVG/Imagens",
+      descricao:  "Animações com svg",
+      site:       "https://useanimations.com/"
+   },
+   
 ];
 
 let example = [
