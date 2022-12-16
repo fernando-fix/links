@@ -59,7 +59,18 @@ let tableItems = [
       descricao:  "Animações com svg",
       site:       "https://useanimations.com/"
    },
-   
+   {
+      nome:       "making css",
+      categoria:  "Gerador de código",
+      descricao:  "Gerador de transition para css",
+      site:       "https://makingcss.com/transition"
+   },
+   {
+      nome:       "frontpush",
+      categoria:  "links para desenvolimento frontend",
+      descricao:  "links para auxiliar no desenvolvimento frontend",
+      site:       "https://frontpush.notion.site/frontpush/Notion-FrontPUSH-2-0-ff857f2b78234a6981d1e4d40874a6cc"
+   },
 ];
 
 let example = [
