@@ -85,7 +85,7 @@ let tableItems = [
    },
    {
       nome:       "free-css",
-      categoria:  "Templates",
+      categoria:  "Templates html/css",
       descricao:  "Site com templates gratuítos de páginas para fazer download",
       site:       "https://www.free-css.com/free-css-templates",
       add:        "XX/XX/XXXX"
@@ -159,6 +159,60 @@ let tableItems = [
       descricao:  "Site com gerador de paleta de cores, é só ir apertando espaço para gerar uma nova paleta de cores",
       site:       "https://coolors.co/generate",
       add:        "20/12/2022"
+   },
+   {
+      nome:       "HTML5UP",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://html5up.net/"
+   },
+   {
+      nome:       "TEMPLATEMO",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://templatemo.com/"
+   },
+   {
+      nome:       "FREEHTML5",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://freehtml5.co/"
+   },
+   {
+      nome:       "HTMLXCSS3",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://www.html5xcss3.com/"
+   },
+   {
+      nome:       "W3Layouts",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://w3layouts.com/"
+   },
+   {
+      nome:       "OnePageLove",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://onepagelove.com/"
+   },
+   {
+      nome:       "BootsWhatch",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates bootstrap para sites",
+      site:       "https://bootswatch.com/"
+   },
+   {
+      nome:       "Tooplate",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://www.tooplate.com/"
+   },
+   {
+      nome:       "ThemeWagon",
+      categoria:  "Templates html/css",
+      descricao:  "Site com templates html/css para sites",
+      site:       "https://themewagon.com/"
    },
 ];
 
