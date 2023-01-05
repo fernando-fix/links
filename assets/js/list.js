@@ -214,6 +214,12 @@ let tableItems = [
       descricao:  "Site com templates html/css para sites",
       site:       "https://themewagon.com/"
    },
+   {
+      nome:       "Whatismyscreenresolution",
+      categoria:  "Responsividade",
+      descricao:  "Site para testar as resoluções de sites em diversos dispositivos",
+      site:       "http://whatismyscreenresolution.net/multi-screen-test"
+   },
 ];
 
 let example = [
