@@ -237,6 +237,13 @@ let tableItems = [
       site: "https://pravatar.cc/",
       add: "16/01/2023"
    },
+   {
+      nome: "Frontendpractice",
+      categoria: "Desafios",
+      descricao: "Desafios de projetos front end para desenvolver",
+      site: "https://www.frontendpractice.com/projects",
+      add: "30/01/2023"
+   },
 ];
 
 let example = [
