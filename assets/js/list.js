@@ -244,6 +244,13 @@ let tableItems = [
       site: "https://www.frontendpractice.com/projects",
       add: "30/01/2023"
    },
+   {
+      nome: "Botão de whatsapp",
+      categoria: "Gerador de código",
+      descricao: "Criar botão de whatsapp",
+      site: "https://adamante.com.br/whatsapp-site-botao/",
+      add: "31/01/2023"
+   },
 ];
 
 let example = [
