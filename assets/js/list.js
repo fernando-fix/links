@@ -247,9 +247,37 @@ let tableItems = [
    {
       nome: "Botão de whatsapp",
       categoria: "Gerador de código",
-      descricao: "Criar botão de whatsapp",
+      descricao: "Gerador de botão para whatsapp",
       site: "https://adamante.com.br/whatsapp-site-botao/",
       add: "31/01/2023"
+   },
+   {
+      nome: "Botão de whatsapp",
+      categoria: "Gerador de código",
+      descricao: "Gerador de botão para whatsapp",
+      site: "https://www.cupcom.com.br/whatsapp",
+      add: "07/02/2023"
+   },
+   {
+      nome: "Botão de whatsapp",
+      categoria: "Gerador de código",
+      descricao: "Gerador de botão para whatsapp",
+      site: "https://crmpiperun.com/tools/wa-button/",
+      add: "07/02/2023"
+   },
+   {
+      nome: "freepik",
+      categoria: "SVG/Imagens",
+      descricao: "banco de imagens gratuito mais conhecido da internet. No Freepik você encontra imagens, arquivos em PSD, vetores e ícones.",
+      site: "https://br.freepik.com/",
+      add: "07/02/2023"
+   },
+   {
+      nome: "unsplash",
+      categoria: "SVG/Imagens",
+      descricao: "é um dos melhores bancos de imagens gratuito. Suas imagens tem um estilo diferenciado e você pode usá-las para fins comerciais ou não comerciais",
+      site: "https://unsplash.com/",
+      add: "07/02/2023"
    },
 ];
 
