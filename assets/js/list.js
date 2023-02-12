@@ -279,6 +279,13 @@ let tableItems = [
       site: "https://unsplash.com/",
       add: "07/02/2023"
    },
+   {
+      nome: "https://feathericons.com/",
+      categoria: "SVG/Imagens",
+      descricao: "Um dos melhores sites de SVGs",
+      site: "https://feathericons.com/",
+      add: "12/02/2023"
+   },
 ];
 
 let example = [
