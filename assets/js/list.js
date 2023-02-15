@@ -286,6 +286,13 @@ let tableItems = [
       site: "https://feathericons.com/",
       add: "12/02/2023"
    },
+   {
+      nome: "Iconer",
+      categoria: "SVG/Imagens",
+      descricao: "Na minha opnião o melhor site para icones SVG",
+      site: "https://iconer.app/",
+      add: "1502/2023"
+   },
 ];
 
 let example = [
