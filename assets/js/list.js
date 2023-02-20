@@ -291,7 +291,21 @@ let tableItems = [
       categoria: "SVG/Imagens",
       descricao: "Na minha opnião o melhor site para icones SVG",
       site: "https://iconer.app/",
-      add: "1502/2023"
+      add: "15/02/2023"
+   },
+   {
+      nome: "iconscout",
+      categoria: "SVG/Imagens",
+      descricao: "Coleção de icones e svgs e imagens",
+      site: "https://iconscout.com/",
+      add: "19/02/2023"
+   },
+   {
+      nome: "undraw",
+      categoria: "SVG/Imagens",
+      descricao: "Coleção de imagens SVG",
+      site: "https://undraw.co/",
+      add: "19/02/2023"
    },
 ];
 
