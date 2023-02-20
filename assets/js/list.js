@@ -307,6 +307,34 @@ let tableItems = [
       site: "https://undraw.co/",
       add: "19/02/2023"
    },
+   {
+      nome: "svgrepo",
+      categoria: "SVG/Imagens",
+      descricao: "Site com vários svg para baixar",
+      site: "https://www.svgrepo.com/",
+      add: "19/02/2023"
+   },
+   {
+      nome: "macropik",
+      categoria: "SVG/Imagens",
+      descricao: "Site com várias ilustrações para download",
+      site: "https://macropik.com/",
+      add: "19/02/2023"
+   },
+   {
+      nome: "animista",
+      categoria: "Gerador de código",
+      descricao: "Site para gerar códigos css para animações",
+      site: "https://animista.net/",
+      add: "19/02/2023"
+   },
+   {
+      nome: "angrytools",
+      categoria: "ferramentas online",
+      descricao: "conjunto de ferramentas para programadores para imagens e gerar código css entre outros",
+      site: "https://angrytools.com/",
+      add: "19/02/2023"
+   },
 ];
 
 let example = [
