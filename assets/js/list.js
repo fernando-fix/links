@@ -335,6 +335,20 @@ let tableItems = [
       site: "https://angrytools.com/",
       add: "19/02/2023"
    },
+   {
+      nome: "uiverse",
+      categoria: "Gerador de código css",
+      descricao: "Conjunto de elementos css prontos para usar",
+      site: "https://uiverse.io/all",
+      add: "20/02/2023"
+   },
+   {
+      nome: "100dayscss",
+      categoria: "Desafios Css",
+      descricao: "Desafios em css para testar habilidades em 100 dias",
+      site: "https://100dayscss.com/days/1/",
+      add: "20/02/2023"
+   },
 ];
 
 let example = [
