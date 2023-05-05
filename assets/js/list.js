@@ -349,6 +349,13 @@ let tableItems = [
       site: "https://100dayscss.com/days/1/",
       add: "20/02/2023"
    },
+   {
+      nome: "angrytools",
+      categoria: "ferramentas online",
+      descricao: "Diversas ferramentas para programadores",
+      site: "https://angrytools.com/",
+      add: "04/05/2023"
+   },
 ];
 
 let example = [
