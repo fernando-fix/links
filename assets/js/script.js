@@ -21,3 +21,7 @@ function generateTable() {
 
     table.innerHTML = html;
 }
+
+$(document).ready(function () {
+    $('#example').DataTable();
+});
